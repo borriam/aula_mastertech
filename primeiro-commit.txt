@@ -7,3 +7,5 @@ git commit -m "Criar arquivo de texto" #nomear o commit
 git log #verificar atividades do commit
 git config --global http.sslBackend schannel  #correção de comunicação http/ssl
 git push origin master #enviar git pra online
+
+MOD na brach 2
